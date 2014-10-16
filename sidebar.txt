@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apy:home|Door43 (apy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apy|d43-apy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apy/archive/master.zip|d43-apy.zip]]
+
+**Recent Changes**
+{{changes>ns = apy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apy|Ethnologue data]]
+
